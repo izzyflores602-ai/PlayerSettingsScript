@@ -1,4 +1,4 @@
-local NovaUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/isaacflo602-hash/NovaUILibrary/main/Nova.lua"))()
+local UiLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/isaacflo602-hash/NovaUILibrary/main/Nova.lua"))()
 
 local Window = NovaUI:CreateWindow("Player Settings - Nova UI Library ")
 local MainTab = Window:CreateTab("Player")
